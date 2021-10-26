@@ -1,5 +1,5 @@
 # taptraining
-Learned About VCS
-Learned About DVCS
-Difference between VCS and DVCS
-Learned about Git and Create account on github
+1. Learned About VCS
+2. Learned About DVCS
+3. Difference between VCS and DVCS
+4. Learned about Git and Create account on github
